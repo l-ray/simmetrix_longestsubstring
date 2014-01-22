@@ -3,7 +3,7 @@
     "name": "Lennart Reuther",
     "email": "lennart.reuther+xirtemmis@gmail.com"
   },
-  "name": "simmetrix_longestsubstring",
+  "name": "simmetrix-longestsubstring",
   "description": "longest substring algorithm in javascript",
   "version": "0.0.2",
   "repository": {
